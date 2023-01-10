@@ -1,3 +1,5 @@
+SPARKS Verification AakoY/x6eiebR5HlVyweAkgNv1HmWZUM
+
 - 👋 Hi, I’m @7i7o
 - 👀 I’m interested in new technologies, programming languages, hiking, swimming and yoga
 - 🌱 I’m currently learning Solidity, and fell down the web3 rabbit hole
