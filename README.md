@@ -8,5 +8,3 @@
 7i7o/7i7o is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-SPARKS Verification OWq+aYY0IqsjDGNCmmcFpB68HSYE4y5W
