@@ -1,6 +1,6 @@
-# <div style="font-family: sans-serif; display: flex; align-items: center; justify-content: center;">7i7o</div>
+# 7i7o
 
-#### <div style="font-family: sans-serif; display: flex; align-items: center; justify-content: center;"> [![twitter](./img/twitter.svg)](https://twitter.com/7i7o) &nbsp; &nbsp; [![github](./img/github-mark.svg)](https://github.com/7i7o) &nbsp; &nbsp; [![linkedin](./img/linkedin.svg)](https://linkedin.com/in/matias-parij) </div>
+[![twitter](./img/twitter.svg)](https://twitter.com/7i7o) [![github](./img/github-mark.svg)](https://github.com/7i7o) [![linkedin](./img/linkedin.svg)](https://linkedin.com/in/matias-parij)
 
 <!-- - 👀 I’m interested in new technologies, programming languages, hiking, swimming and yoga
 - 🌱 I’m currently learning Solidity, and fell down the web3 rabbit hole
