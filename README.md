@@ -1,1 +1,1 @@
-# 7i7o &nbsp; &nbsp; [![twitter](./img/twitter.svg)](https://twitter.com/7i7o) [![github](./img/github-mark.svg)](https://github.com/7i7o) [![linkedin](./img/linkedin.svg)](https://linkedin.com/in/matias-parij)
+# 7i7o &nbsp; &nbsp; [![twitter](./img/x.svg)](https://twitter.com/7i7o) [![linkedin](./img/linkedin.svg)](https://linkedin.com/in/matias-parij) [![github](./img/github-mark.svg)](https://github.com/7i7o)
